@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "chart.js": "^4.4.7",
+    "firebase": "^11.1.0",
+    "lucide-react": "^0.469.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^19.0.0",
+    "recharts": "^2.15.0"
+  }
+}
